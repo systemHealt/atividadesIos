@@ -1,0 +1,10 @@
+h1{
+    display: flex;
+    justify-content: center;
+    
+}
+endereço{
+    display: flex;
+    justify-content: center;
+    width: 200px;
+}
